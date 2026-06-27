@@ -1,0 +1,2 @@
+A SQL-based Employee Management System designed using a relational database to manage employees, departments, payroll, qualifications, and leave records.
+Includes database design, SQL queries, and business analysis using JOINs, CTEs, aggregate functions, and relational data modeling.
